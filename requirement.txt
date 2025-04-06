@@ -1,4 +1,0 @@
-whisper
-language-tool-python
-gradio
-matplotlib
